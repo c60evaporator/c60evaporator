@@ -1,4 +1,6 @@
-### Hi there 👋
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/c60evaporator/posts.svg)](http://qiita.com/c60evaporator)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/c60evaporator/contributions.svg)](http://qiita.com/c60evaporator)
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/c60evaporator/followers.svg)](http://qiita.com/c60evaporator)
 
 <!--
 **c60evaporator/c60evaporator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
