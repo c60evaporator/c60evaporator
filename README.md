@@ -1,11 +1,10 @@
-#Profile
-<br>
+# Profile
 **Hi! my name is kenta Nakamura**<br>
 🌱I'm engaged in data analysis of industry<br>
 🌱 I’m currently learning Data science, Python(Scikit-learn), Android, AWS
 
 
-#Stats
+# Stats
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/c60evaporator/posts.svg)](http://qiita.com/c60evaporator)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/c60evaporator/contributions.svg)](http://qiita.com/c60evaporator)
