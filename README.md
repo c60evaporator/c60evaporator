@@ -1,7 +1,8 @@
 # Profile
 **Hi! my name is Kenta Nakamura**<br>
-🌱I'm engaged in data analysis of industry<br>
-🌱 I’m currently learning Data science, Python(Scikit-learn), Android, and AWS
+🌱 I'm engaged in data analysis of manufacturing<br>
+🌱 I'm developing data analysis software mainly using Python (Scikit-learn, Matplotlib), R (Stan), and AWS<br>
+🌱 I’m currently learning AWS, web development, and deep learning.
 
 
 # Stats
